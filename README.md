@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arjuna! 👾 </h1>
 <h3 align="center">Co-founder & Head of Production @Beat ‘em Hub 🕹 🏹 |  Technical Project Manager | Junior Full-Stack Developer</h3>
 
+![](https://media2.giphy.com/media/y0NFayaBeiWEU/200w.gif)
+
 🔭 I’m currently working on [Beat 'Em Hub](https://vimeo.com/769361930) & [NerdAdvisor](https://vimeo.com/786852077)
+
+🛠️ Recently worked extensively on the front and back-end development of [NerdAdvisor](https://vimeo.com/786852077) as well as aided development on [Beat 'Em Hub](www.beatemhub.com) website
 
 🌱 I’m currently diving deep into **React.js (w/Hooks & Redux) through an Udemy course guided by Andrew Mead**
 
