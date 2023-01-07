@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arjuna! 👾 </h1>
 <h3 align="center">Co-founder & Head of Production @Beat ‘em Hub 🕹 🏹 |  Technical Project Manager | Junior Full-Stack Developer</h3>
 
-![](https://media2.giphy.com/media/y0NFayaBeiWEU/200w.gif)
+
+<img src="https://media2.giphy.com/media/y0NFayaBeiWEU/200w.gif" align="right" style="max-width: 50%" padding="0px,0px,20px,0px">
 
 🔭 I’m currently working on [Beat 'Em Hub](https://vimeo.com/769361930) & [NerdAdvisor](https://vimeo.com/786852077)
 
