@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [Beat 'Em Hub](https://vimeo.com/769361930) & [NerdAdvisor](https://vimeo.com/786852077)
 
-🛠️ Recently worked extensively on the front and back-end development of [NerdAdvisor](https://vimeo.com/786852077) as well as aided development on [Beat 'Em Hub](www.beatemhub.com) website
+🛠️ Recently worked extensively on the front and back-end development of [NerdAdvisor](https://vimeo.com/786852077) as well as aided development on www.beatemhub.com
 
 🌱 I’m currently diving deep into **React.js (w/Hooks & Redux) through an Udemy course guided by Andrew Mead**
 
