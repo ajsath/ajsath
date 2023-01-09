@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjuna! 👾 </h1>
-<h3 align="center">Co-founder & Head of Production @Beat ‘em Hub 🕹 🏹 |  Technical Project Manager | Junior Full-Stack Developer</h3>
+<h3 align="center">Co-founder & Head of Production @Beat ‘em Hub 🕹 🏹 | Sales Engineer | Technical Project Manager | Junior Full-Stack Developer</h3>
 
 
 <img src="https://media2.giphy.com/media/y0NFayaBeiWEU/200w.gif" align="right" style="max-width: 50%" padding="0px,0px,20px,0px">
